@@ -1,1 +1,2 @@
 # odin-recipes
+Hello, this will be a Project showcasing the usage of HTMl semantics and HTML usage to show a recipe, THis project should demonstrate the basics of HTMl and my understanding of it as well as my ability to use it and display HTML code basics properly and efficiently.
